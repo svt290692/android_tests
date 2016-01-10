@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentsTests</string>
+    <string name="action_settings">Settings</string>
+    <string name="top_fragment_buttton_text">Push me, turn me on!</string>
+    <string name="toptext">TopText</string>
+    <string name="bottomtext">BottomText</string>
+</resources>
